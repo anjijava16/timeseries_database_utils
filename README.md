@@ -28,3 +28,7 @@ time series databases
 2. Ingestion: Telegraf 
 3. Alerting: Kapacitor
 
+# Telegraf Flow
+![image](https://user-images.githubusercontent.com/5849522/139688254-53898bf4-68de-466f-ac0d-75cc4663d7b9.png)
+
+
