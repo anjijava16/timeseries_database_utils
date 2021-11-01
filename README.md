@@ -29,6 +29,7 @@ time series databases
 3. Alerting: Kapacitor
 
 # Telegraf Flow
-![image](https://user-images.githubusercontent.com/5849522/139688254-53898bf4-68de-466f-ac0d-75cc4663d7b9.png)
+![image](https://user-images.githubusercontent.com/5849522/139688338-1b5d06f0-ab82-4953-923c-1d93a3e1dd65.png)
+
 
 
