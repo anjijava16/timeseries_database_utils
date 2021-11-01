@@ -33,3 +33,14 @@ time series databases
 
 
 
+
+# Prometheus
+1. Pulls metrics data from instrumented targets with the Prometheus server
+2. Visulizes metrics with the Prometheus UI
+3. Send alert with the Prometheus Alert Manager
+4. Receives metrics data from the Prometheus Push gateway
+
+![image](https://user-images.githubusercontent.com/5849522/139748053-fd6a0998-6eba-43e3-bfbb-6d93de69f446.png)
+
+
+
